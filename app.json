@@ -1,0 +1,9 @@
+{
+  "name": "equity-charger",
+  "description": "Seed project to show how Silhouette can be implemented into a Play Framework application with database access using Slick 3.",
+  "keywords": [
+    "Play",
+    "Silhouette",
+    "Slick"
+  ]
+}
